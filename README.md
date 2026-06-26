@@ -1,4 +1,4 @@
-# Prys 🧾🏥
+# Crud Farmacia 🧾🏥
 
 ## Descripción general
 Prys es una aplicación de escritorio desarrollada en Java (proyecto NetBeans / Ant) para la gestión básica de una farmacia o punto de venta farmacéutico. Incluye módulos para manejar clientes, empleados y medicamentos, y un menú principal para navegar entre funcionalidades.
